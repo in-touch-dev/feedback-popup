@@ -1,4 +1,4 @@
-# feedback-popup
+# feedback-popup-window
 
 [![npm version][npm-badge]][npm]
 
