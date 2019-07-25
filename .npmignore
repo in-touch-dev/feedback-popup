@@ -1,6 +1,6 @@
 /src
 /lib/index*
-/lib/indexOLD.js
+/lib/index.js
 /lib/indexTEST.js
 /lib/index*
 /node_modules
